@@ -27,11 +27,12 @@ ViT (Vision Transformer): for capturing global attention and relationships
 A custom fusion layer averages the softmax outputs of both models for final prediction.
 
 # 🗃️ Dataset
-Kaggle Dataset: Brain Tumor MRI Dataset
 
-Training/ and Testing/ folders
+**Kaggle Dataset**: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
-MRI images labeled as glioma, meningioma, pituitary, and no tumor
+- Contains MRI scans classified into four categories: `glioma`, `meningioma`, `pituitary`, and `no tumor`
+- Divided into `Training/` and `Testing/` folders for model evaluation
+
 
 # 📊 Results
 Accuracy        99.7+
