@@ -1,4 +1,4 @@
-🧠 Brain Tumor Detection using DenseNet169 + Vision Transformer (ViT)
+# 🧠 Brain Tumor Detection using DenseNet169 + Vision Transformer (ViT)
 An advanced deep learning model that combines DenseNet169 and Vision Transformer (ViT) architectures for highly accurate brain tumor detection using MRI scans.
 
 📌 Overview
